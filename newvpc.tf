@@ -107,7 +107,7 @@ variable profile {
 }
 
 
-variable "prefix" {
+variable prefix {
   description = "The prefix of VPC."
   type        = string
 }
