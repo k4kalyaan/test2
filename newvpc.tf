@@ -99,7 +99,7 @@ variable resource_group {
 
 
 variable image {
-  default = "r022-28d8ad4d-e308-4326-86d5-3a89a2c5c0c9"
+  default = "r006-aeefaaf4-96d7-45fa-8dc5-d91710559c5c"
 }
 
 variable profile {
